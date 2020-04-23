@@ -1,7 +1,9 @@
 # Digits and Voice Recognizer
 A Digit and Voice Recognizer by matching MFCC (Mel Frequency Cepstral Coefficients) of *template* files with the *test* files.
 
-*To simply see the result without any notebook, you can open the HTML format in this repository.*
+*To simply see the result without any notebook, you can open the HTML format in this repository:*
+[*See in HTML*](https://edwardpassagi.github.io/projects/digitsSpeechRecognizer.html)
+
 This notebook also contains a simple implementation of a Voice Dialler.
 
 To run, use Anaconda's Jupyter Notebook with `librosa` installed.
